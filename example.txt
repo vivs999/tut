@@ -1,0 +1,1 @@
+/hiii this is a tutorial. use the source control tab to push any and all changes to github. please dont work at the same time otherwise u guys will need to do pull requests and stuff, but please keep the github up to date always.
